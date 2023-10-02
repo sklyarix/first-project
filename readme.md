@@ -1,4 +1,4 @@
-#Git commands
+# Git commands
 
 ```
 git init //Сделать папку c репозиторием
